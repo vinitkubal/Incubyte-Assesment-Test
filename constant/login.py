@@ -1,0 +1,7 @@
+url = 'https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS9jdXN0b21lci9hY2NvdW50L2NyZWF0ZS8%2C/'
+email = '//*[@id="email"]'
+password = '//*[@id="pass"]'
+sign_in = '//*[@id="send2"]'
+accept_btn = '/html/body/div[4]/div/div/div/div[2]/div/button[3]'
+email_id = 'slTfvnE@gmail.com'
+pwd = ' Demo@1234'

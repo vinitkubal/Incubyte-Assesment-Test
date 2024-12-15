@@ -1,0 +1,16 @@
+------------------------------Incubyet Test From Vinit Kubal--------------------------------------
+
+
+-Clone the repo on you local machine
+
+-Check the version of your chrome browser and download the web driver and move the .exe file in the folder WebDriver
+
+-you can get the web driver from here 'https://googlechromelabs.github.io/chrome-for-testing/'
+
+
+-You need to install selenium via pip use this command 'pip install selenium'
+
+-Once all above things are done open tests/registartion.py and enter the correct path from your local machine for executable_path
+-Repeate the same for tests/login.py
+
+-Open Regression.py file and run it, registation and login process have been automated
